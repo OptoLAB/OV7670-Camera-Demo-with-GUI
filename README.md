@@ -11,5 +11,5 @@ This is a demo project for [OmniVision OV7670] image sensor done using digital c
 
 
 <p align="center">
-<img src="https://github.com/OptoLAB/OV7670-Camera-Demo-with-GUI/blob/main/img/photo.jpg" width="500"/>
+<img src="https://github.com/OptoLAB/OV7670-Camera-Demo-with-GUI/blob/main/img/photo.jpg" width="600"/>
 </p>
