@@ -1,5 +1,5 @@
 # OV7670 Camera Demo with GUI
- Demo project for OV7670 camera using DCMI and STM32 GUI library
+ Demo project for OV7670 camera using DCMI and STemWin GUI library
 ## About project
 This is a demo project for [OmniVision OV7670] image sensor done using digital camera interface or [DCMI](https://www.st.com/resource/en/application_note/an5020-digital-camera-interface-dcmi-on-stm32-mcus-stmicroelectronics.pdf). Project was built using following ecosystem:
 
