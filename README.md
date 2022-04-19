@@ -13,6 +13,8 @@ More info can be found [here](https://www.optolab.ftn.uns.ac.rs/index.php/educat
 
 Demo video on [youtube](https://www.youtube.com/watch?v=5b7or2_Q1HU) 
 
+Simple demo without GUI can be found [here](https://github.com/OptoLAB/OV7670-Camera-Demo)
+
 <p align="center">
 <img src="https://github.com/OptoLAB/OV7670-Camera-Demo-with-GUI/blob/main/img/photo.jpg" width="600"/>
 </p>
